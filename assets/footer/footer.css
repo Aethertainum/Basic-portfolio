@@ -1,9 +1,20 @@
 .footer {
-  background-color: black;
+  background-color: gray;
 }
 
 .footer:after {
   content: "";
   display: table;
   clear: both;
+}
+
+.trademark {
+  display: inline-block;
+  /* position: relative;
+  left: 50%; */
+  background: #4aaaa5;
+  font-family: 'Georgia', Times, Times New Roman, serif;
+  font-size: 25px;
+  color: white;
+  padding: 20px;
 }
