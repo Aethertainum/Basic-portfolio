@@ -1,0 +1,23 @@
+.header {
+  background-color: whitesmoke; 
+}
+.header:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.name {
+  display: inline-block;
+  background: #4aaaa5;
+  font-family: 'Georgia', Times, Times New Roman, serif;
+  font-size: 25px;
+  color: white;
+  padding: 20px;
+}
+nav {
+  float: right;
+  margin-top: 27px;
+}
+nav a {
+  margin: 0 10px;
+}
