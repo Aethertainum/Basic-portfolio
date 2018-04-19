@@ -1,0 +1,55 @@
+.header {
+  background-color: whitesmoke;
+}
+.header:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.name {
+  display: inline-block;
+  background: #4aaaa5;
+  font-family: 'Georgia', Times, Times New Roman, serif;
+  font-size: 25px;
+  color: white;
+  padding: 20px;
+}
+nav {
+  float: right;
+  margin-top: 27px;
+}
+nav a {
+  margin: 0 10px;
+}
+.flex-grid-thirds {
+  width: 11%;
+  padding: 20px;
+  float: right;
+  display: flex;
+  justify-content: space-between;
+}
+
+.container {
+  width:960px;
+  margin: 0 auto;
+}
+
+.container:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.fullwidth {
+  width: 100%;
+}
+
+.footer {
+  background-color: black;
+}
+
+.footer:after {
+  content: "";
+  display: table;
+  clear: both;
+}
