@@ -19,7 +19,11 @@
   margin-left: 20px; 
   margin-top: 10px;
 }
-
+.bio:after {
+  content: "";
+  display: table;
+  clear: both;
+}
 .mini-trim {
   border: solid silver 1px;
   margin: 20px;
@@ -28,4 +32,9 @@
 .paragraph-1 {
   float: right;
   margin: 40px;
+}
+.paragraph-1:after {
+  content: "";
+  display: table;
+  clear: both;
 }
