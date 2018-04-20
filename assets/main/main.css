@@ -4,6 +4,7 @@
   min-height: calc(100vh - 70px);
   margin: 40px auto;
   margin-bottom: 60px;
+}
 .main:after {
   content: "";
   display: table;
