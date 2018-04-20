@@ -16,7 +16,8 @@ There are no applicable things needed prior to installation
 
 ### Installing
 
-A step by step series of examples that tell you have to get a development env running
+There is no need for anything to be installed.
+<!-- A step by step  series of examples that tell you have to get a development env running -->
 
 <!-- Say what the step will be
 
@@ -30,13 +31,13 @@ And repeat
 until finished
 ``` -->
 
-End with an example of getting some data out of the system or using it for a little demo
+<!-- End with an example of getting some data out of the system or using it for a little demo -->
 
 ## Running the tests
 
 There are no tests for this basic portfolio.
 
-### Break down into end to end tests
+<!-- ### Break down into end to end tests
 
 Explain what these tests test and why
 
@@ -50,11 +51,12 @@ Explain what these tests test and why
 
 ```
 Give an example
-```
+``` -->
 
 ## Deployment
+Not deployed --Hosted on [GitHub pages](https://unobtainiumrock.github.io/Basic-portfolio/).
+<!-- Add additional notes about how to deploy this on a live system -->
 
-Add additional notes about how to deploy this on a live system
 
 ## Built With
 
