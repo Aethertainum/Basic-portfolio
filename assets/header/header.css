@@ -23,7 +23,7 @@ nav a {
   margin: 0 10px;
 }
 .trim {
-  border: solid rgba(7, 7, 7, 0.198) .7px;
+  border: solid navy .5px;
 }
 
 .trim:after {

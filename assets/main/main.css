@@ -12,9 +12,15 @@
 }
 .bio {
   display: inline-block;
-  font: teal;
   font-family: 'Georgia', Times, Times New Roman, serif;
   font-size: 25px;
-  color: white;
+  color: teal;
   padding: 20px;
+  margin-left: 20px; 
+  margin-top: 10px;
+}
+
+.mini-trim {
+  border: solid silver 1px;
+  margin: 20px;
 }
