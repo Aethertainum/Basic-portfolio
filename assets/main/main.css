@@ -1,19 +1,17 @@
-.main-background {
-  background-color: whitesmoke;
-}
 
+.body {
+  background-color: whitesmoke;
+  min-height: calc(100vh - 70px);
+  margin: 40px auto;
+  margin-bottom: 60px;
 .main:after {
   content: "";
   display: table;
   clear: both;
 }
-
-.push-down-footer {
-  min-height: calc(100vh - 70px);
-}
-
 .bio {
   display: inline-block;
+  font: teal;
   font-family: 'Georgia', Times, Times New Roman, serif;
   font-size: 25px;
   color: white;
