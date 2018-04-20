@@ -1,0 +1,11 @@
+
+/* .main {
+  background-image: url("../06.jpg");
+  height: 100%;
+  z-index: -10;
+} */
+.main:after {
+  content: "";
+  display: table;
+  clear: both;
+}

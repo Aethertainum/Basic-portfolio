@@ -1,14 +1,15 @@
+
 .header {
-  background-color: whitesmoke; 
+  background-color: whitesmoke;
 }
 .header:after {
-  content: "";
+      content: "";
   display: table;
   clear: both;
 }
 .name {
   display: inline-block;
-  background: #4aaaa5;
+  background: rgb(209, 186, 156);
   font-family: 'Georgia', Times, Times New Roman, serif;
   font-size: 25px;
   color: white;
@@ -20,4 +21,13 @@ nav {
 }
 nav a {
   margin: 0 10px;
+}
+.trim {
+  border: solid rgba(7, 7, 7, 0.198) .7px;
+}
+
+.trim:after {
+  content: "";
+  display: table;
+  clear: both;
 }

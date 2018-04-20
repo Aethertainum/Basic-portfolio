@@ -1,0 +1,36 @@
+
+html { 
+  background-image: linear-gradient(87deg,#5fdff0 0,#cccfd1 100%);
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.push-down-footer {
+  min-height: calc(100vh - 70px);
+}
+.flex-box-top {
+  -webkit-box-align:top;
+  -webkit-box-pack:top;
+  display:-webkit-box;
+}
+.flex-box-center {
+  -webkit-box-align:center;
+  -webkit-box-pack:center;
+  display:-webkit-box;
+}
+.flex-box-bottom {
+  -webkit-box-align:right;
+  -webkit-box-pack:right;
+  display:-webkit-box;
+}
+.flex-box-left {
+  -webkit-box-align:right;
+  -webkit-box-pack:right;
+  display:-webkit-box;
+}
+.flex-box-right {
+  -webkit-box-align:right;
+  -webkit-box-pack:right;
+  display:-webkit-box;
+}
