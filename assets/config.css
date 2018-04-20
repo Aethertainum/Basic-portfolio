@@ -6,9 +6,7 @@ html {
   -o-background-size: cover;
   background-size: cover;
 }
-.push-down-footer {
-  min-height: calc(100vh - 70px);
-}
+
 .flex-box-top {
   -webkit-box-align:top;
   -webkit-box-pack:top;

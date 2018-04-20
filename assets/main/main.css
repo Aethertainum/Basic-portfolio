@@ -1,11 +1,21 @@
+.main-background {
+  background-color: whitesmoke;
+}
 
-/* .main {
-  background-image: url("../06.jpg");
-  height: 100%;
-  z-index: -10;
-} */
 .main:after {
   content: "";
   display: table;
   clear: both;
+}
+
+.push-down-footer {
+  min-height: calc(100vh - 70px);
+}
+
+.bio {
+  display: inline-block;
+  font-family: 'Georgia', Times, Times New Roman, serif;
+  font-size: 25px;
+  color: white;
+  padding: 20px;
 }
