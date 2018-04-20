@@ -38,3 +38,13 @@
   display: table;
   clear: both;
 }
+
+.paragraph-2-3 {
+  float: right;
+  margin-left: 20px;
+  margin-right: 40px;
+}
+
+.contact-info {
+  margin: 20px;
+}
