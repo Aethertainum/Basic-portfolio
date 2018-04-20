@@ -24,3 +24,8 @@
   border: solid silver 1px;
   margin: 20px;
 }
+
+.paragraph-1 {
+  float: right;
+  margin: 40px;
+}
